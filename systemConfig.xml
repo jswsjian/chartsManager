@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<system>
+    <catalog name = "lineChart" description="则线图配置">
+        <item name = "scaleEnabled" value="0" description="x/y轴缩放 1：有效 0：无效"/>
+        <item name = "doubleTapToZoomEnabled" value="0" description="双击缩放1：有效 0：无效"/>
+        <item name = "dragEnabled" value="0" description="拖拽图表 1：有效 0：无效"/>
+        <item name = "dragDecelerationEnabled" value="0" description="拖拽后是否有惯性效果url 1：有效 0：无效"/>
+        <item name = "AxisLineWidth" value="1" description="x/y轴线宽单位像素"/>
+        <item name = "labelPosition" value="top" description="X轴的显示位置，top:顶部 bottom：底部"/>
+        <item name = "drawGridLinesEnabled" value="0" description="绘制网格线 1：有效 0：无效"/>
+        <item name = "rightAxisEnabled" value="0" description="绘制右边轴 1：有效 0：无效"/>
+        <item name = "inverted" value="1" description="y轴是否翻转 1：有效 0：无效"/>
+    </catalog>
+    
+</system>
